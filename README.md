@@ -5,5 +5,5 @@
 
 
 - 🎓 Simon Fraser University
-- 🧑‍💻 Full Stack Developer 
+- 🧑‍💻 Software Developer @ SFU Robot Soccer
 - 📫 Send me an <a href="mailto:prt2@sfu.ca">Email</a>
