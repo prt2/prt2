@@ -1,9 +1,17 @@
+# 🌸 Hi, I'm Pal Tilva! 🌸  
+
+
+
+🎓 CS @ SFU (Grad 2027) 
+
+🙋🏻‍♀️ WiCS Peer Mentor
+
+👩🏻‍💻 Software Developer @ SFU Robot Soccer
+  
+
+## 🌐 Find Me Here
+[💼 LinkedIn](https://www.linkedin.com/in/pal-tilva) · [🌸 Portfolio](https://pal-tilva.vercel.app) · [🐙 GitHub](https://github.com/prt2)  
+
 <div align="center">
-  <h1>Hi 👋, I'm <a href="www.linkedin.com/in/pal-tilva">Pal Tilva</a></h1>
   <img src="https://komarev.com/ghpvc/?username=prt2">
 </div>
-
-
-- 🎓 Simon Fraser University
-- 🧑‍💻 Software Developer @ SFU Robot Soccer
-- 📫 Send me an <a href="mailto:prt2@sfu.ca">Email</a>
