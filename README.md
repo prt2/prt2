@@ -6,7 +6,7 @@
 
 🙋🏻‍♀️ WiCS Peer Mentor
 
-👩🏻‍💻 Software Developer @ SFU Robot Soccer
+👩🏻‍💻 Software Developer @ Prototyp3 and SFU Robot Soccer
   
 
 ## 🌐 Find Me Here
