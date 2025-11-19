@@ -4,9 +4,7 @@
 
 🎓 CS @ SFU (Graduating 2027) 
 
-🙋🏻‍♀️ WiCS Peer Mentor
-
-👩🏻‍💻 Software Developer @ Prototyp3 and SFU Robot Soccer
+👩🏻‍💻 Software Developer @ SFU Blueprint and Prototyp3
   
 
 ## 🌐 Find Me Here
