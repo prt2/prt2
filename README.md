@@ -4,7 +4,7 @@
 
 🎓 CS @ SFU (Graduating 2027) 
 
-👩🏻‍💻 Software Developer @ SFU Blueprint and Prototyp3
+👩🏻‍💻 Software Developer @ Develop for Good, SFU Blueprint and Prototyp3
   
 
 ## 🌐 Find Me Here
