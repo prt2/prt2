@@ -1,10 +1,7 @@
 # 🌸 Hi, I'm Pal Tilva! 🌸  
 
 
-
 🎓 CS @ SFU (Graduating 2027) 
-
-👩🏻‍💻 Software Developer @ Develop for Good, SFU Blueprint and Prototyp3
   
 
 ## 🌐 Find Me Here
